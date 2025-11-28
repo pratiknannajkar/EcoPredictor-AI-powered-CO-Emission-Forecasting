@@ -1,0 +1,72 @@
+{
+  "selected_features": [
+    "cereal_yield",
+    "gni_per_cap",
+    "en_per_cap",
+    "pop_urb_aggl_perc",
+    "prot_area_perc",
+    "gdp",
+    "pop_growth_perc",
+    "urb_pop_growth_perc"
+  ],
+  "all_features": [
+    "cereal_yield",
+    "fdi_perc_gdp",
+    "gni_per_cap",
+    "en_per_cap",
+    "pop_urb_aggl_perc",
+    "prot_area_perc",
+    "gdp",
+    "pop_growth_perc",
+    "urb_pop_growth_perc"
+  ],
+  "r2_score": 0.9849995908353619,
+  "rmse": 0.5371223048130196,
+  "feature_ranges": {
+    "cereal_yield": {
+      "min": 175.7,
+      "max": 8410.8,
+      "mean": 3012.2422232055333
+    },
+    "fdi_perc_gdp": {
+      "min": -15.02767537004,
+      "max": 51.3739511818767,
+      "mean": 2.962712331091015
+    },
+    "gni_per_cap": {
+      "min": 80.0,
+      "max": 58620.0,
+      "mean": 7789.250728748044
+    },
+    "en_per_cap": {
+      "min": 116.511475882494,
+      "max": 8424.31202030206,
+      "mean": 1888.0352417479723
+    },
+    "pop_urb_aggl_perc": {
+      "min": 3.52631627109587,
+      "max": 60.5057797734036,
+      "mean": 21.41730582416418
+    },
+    "prot_area_perc": {
+      "min": 0.0,
+      "max": 53.7498250426,
+      "mean": 12.288378046272015
+    },
+    "gdp": {
+      "min": 982632621.161695,
+      "max": 55804879952476.9,
+      "mean": 1066886389899.3624
+    },
+    "pop_growth_perc": {
+      "min": -2.39717356845828,
+      "max": 11.1806565039193,
+      "mean": 1.4215877312558027
+    },
+    "urb_pop_growth_perc": {
+      "min": -2.75720996097605,
+      "max": 12.8290461816591,
+      "mean": 2.230200547869977
+    }
+  }
+}
